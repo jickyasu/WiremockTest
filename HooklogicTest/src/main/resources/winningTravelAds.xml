@@ -1,0 +1,40 @@
+<TravelAdsResponse xmlns="http://travelads.hooklogic.com"
+	xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+	<error />
+	<hlUserData>
+		Zq1lI0f9YKS6Oo8nBh1aM5yQq2jHTD72J1aGppyrTq46pDqb5q/0vw==|M7tDFk4u0wR6eO1U9URfYwZFToy1cpqPxHHBeJCGLdWFvAmTK7teRbveXIVWYfrUmcMAiMjEXzxVvfB8j+OAiuhhsOunEZakGQGh5wQhR/S1dI4BicAPTbbaJcYnevAW8Ok2tY6W2iYSjLYsyXCw3OsPXkUjDKvAztwWtV3Dzf0uT/PimR83T5CEc6xQaU6I45Tj/ky2y6nL3fIYWu5I6OJrwnpMgDT6Phs82RY8Xv13uv5TMgarww==|PgcbJYsQBPxF7zM80qZbHP6ATo9sjv7VqGuzNmn3BN24VJ6Z8ZippQhyk39+Irkp1fX/H4uUxJ4=
+	</hlUserData>
+	<travelAds>
+		<TadDisplay>
+			<adId>6420806</adId>
+			<clickRedirectTrackingUrl>
+				http://travelads.hlserve.com/TravelAdsService/Hotels/TravelAdClickRedirect?trackingData=[trackingData]&rank=[rank]&destinationUrl=[destinationUrl]
+			</clickRedirectTrackingUrl>
+			<clickTrackingUrl>
+				http://travelads.hlserve.com/TravelAdsService/Hotels/TravelAdClick?trackingData=[trackingData]&rank=[rank]
+			</clickTrackingUrl>
+			<details>
+				Just minutes from all Heathrow Terminals, we offer large contemporary
+				rooms, a pool, 24-hour gym and free WiFi in the lobby.
+			</details>
+			<detailsHeadline>Save up to 30% off your stay.</detailsHeadline>
+			<hlTestVar>0</hlTestVar>
+			<hotelId>105665</hotelId>
+			<hotelImage>
+				http://www.hotels.com/hotels/1000000/20000/12700/12649/12649_128_l.jpg
+			</hotelImage>
+			<hotelName>Sheraton Skyline Hotel London Heathrow</hotelName>
+			<impressionTrackingUrl>
+				http://travelads.hlserve.com/TravelAdsService/Hotels/TravelAdImpression?trackingData=[trackingData]&rank=[rank]
+			</impressionTrackingUrl>
+			<originalPrice>0</originalPrice>
+			<price>0</price>
+			<rating>4.3</rating>
+			<reviews>387</reviews>
+			<stars>8</stars>
+			<trackingData>
+				gTxwp02d3NCCfk0Zdymv1GJ5w9b3b6GQfxIoOBqc0Y4/ZAupHIYT1rjhwJgyAUJfQxvQ3VqtCV/Dws1oi/Y/f/cqDARVdmgv6e4twF0mMvNwQN7bpNlJuBMXf2iFc935VDwnhz4FebDu/xOlOn1laYLkq3D9GQ6drks+B0E6+JpL+fgWN3mDLyeYbYcwZqFmEwqh5qzDH/fE7uWmJVH6yrCidU8rxY4O0OLGDeZ1nsaVEuAT+rJR902G0YV3Vh5LX6rcYyq+7zaERTf9IdA+vVJr+5zSp0piAVWTNN0tROdrEaTAEzuAwBmqSBBodvPWRzvnGD4zr7tCNxaBWRASv34RO5veDCI4C5+qGcOFB0s7IImfjRhrYj78P9EmbV1rCGFEBG9yTNmjoStCR2ZCJHzra4CPOkoJE7EuYpQriei6LGNG2sFv8/x6UbZZdWvdSxYErWDDMMIAWgR8APW3eExKI0FVHnMvMoMO/xZSN4fanhfGA5L++iGALqA4ZtdXiq050Lzi90sziSlkzjGDCfYiGQHcfZdsRXCmB+VXk8soOASb8mf/R+XAJ22E44RcDNlWL4mM/dB1jT4s21rk+h67H+A2AFFvYtrwIeDC5AEcJCwQy1/WJLyWMM21o89xITuiBF1SZLWUMApTRy656Cp74h5MlzNUGl9FWxR3B4K7WXbSP/Vl1ek4FBSfiNCkiJmKpB4NYgNR7raaNf99pN5YTwtpElcA6bHfa+dE0sD4TL/AH7123oBxkyfgtLwdYirlOunpXdx8Rp2XAXA9QCeUBM27Dv5qsWClhJpVs/crUwDRIwowyyFY6IBce1/k43g7WlmahkbLjy6TIrQO6qj6pH1PNNkYmTjNjQtLoX9L891bO2R4hVyMMKzJ1+odSASnV+H/j9MSMlbruQvBnLxS04y1Q/cpbkgEoLNrpFb9T4wdymNfsPFH+XBB5CditY1zT8/fDB4Byyc/csLtcjWA6mCUIViVclAQbt+q2OJ21iBMSE99LZfO8/1M6q4DtAkHcB7fHLJkxGHGgdwbqA==
+			</trackingData>
+		</TadDisplay>
+	</travelAds>
+</TravelAdsResponse>

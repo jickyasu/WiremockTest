@@ -1,0 +1,8 @@
+<TravelAdsResponse xmlns="http://travelads.hooklogic.com"
+	xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+	<error />
+	<hlUserData>
+		Zq1lI0f9YKS6Oo8nBh1aM5yQq2jHTD72J1aGppyrTq46pDqb5q/0vw==|M7tDFk4u0wR6eO1U9URfYwZFToy1cpqPxHHBeJCGLdWFvAmTK7teRbveXIVWYfrUmcMAiMjEXzxVvfB8j+OAiuhhsOunEZakGQGh5wQhR/S1dI4BicAPTbbaJcYnevAW8Ok2tY6W2iYSjLYsyXCw3OsPXkUjDKvAztwWtV3Dzf0uT/PimR83T5CEc6xQaU6I45Tj/ky2y6nL3fIYWu5I6OJrwnpMgDT6Phs82RY8Xv13uv5TMgarww==|PgcbJYsQBPxF7zM80qZbHP6ATo9sjv7VqGuzNmn3BN24VJ6Z8ZippQhyk39+Irkp1fX/H4uUxJ4=
+	</hlUserData>
+	<travelAds>
+		
